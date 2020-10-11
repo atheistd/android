@@ -1,0 +1,24 @@
+# MIUI 12.some.version.I.couldn't.care.less.about
+
+pm uninstall -k --user 0 com.miui.analytics
+pm uninstall -k --user 0 com.app.dream11Pro
+pm uninstall -k --user 0 com.facebook.katana 
+pm uninstall -k --user 0 com.facebook.system
+pm uninstall -k --user 0 com.facebook.appmanager 
+pm uninstall -k --user 0 com.facebook.services
+pm uninstall -k --user 0 com.xiaomi.mipicks
+pm uninstall -k --user 0 com.google.android.videos 
+pm uninstall -k --user 0 com.linkedin.android
+pm uninstall -k --user 0 com.miui.calculator 
+pm uninstall -k --user 0 com.xiaomi.payment
+pm uninstall -k --user 0 com.micredit.in
+pm uninstall -k --user 0 com.mipay.wallet.in 
+pm uninstall -k --user 0 com.mint.keyboard 
+pm uninstall -k --user 0 in.mohalla.video 
+pm uninstall -k --user 0 com.miui.player 
+pm uninstall -k --user 0 com.winwin.casino.xender 
+pm uninstall -k --user 0 com.cardfeed.video_public
+pm uninstall -k --user 0 com.funnypuri.client
+pm uninstall -k --user 0 com.xiaomi.miplay_client 
+pm uninstall -k --user 0 com.google.android.apps.podcasts
+pm uninstall -k --user 0 com.google.android.apps.youtube.music
